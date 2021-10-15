@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panda Bahçesi</title>
+    <style>
+        div{background: rgb(177, 160, 7);
+            width: 100%;
+            height: 150px;
+            border-radius: 5px;}
+        .div1 a{float: left;
+                display:block;
+                color:black;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 65px;
+                margin-left: 250px;
+                margin-top: 20px;}
+        .div1{border-radius: 15px;}
+
+        .div1 h1{background:whitesmoke ;
+                 width: 25%;
+                 height: 230px;
+                 float: right;
+                 margin-top: 2px;
+                 text-align: center;
+                 font-size:80px;
+                 border: 10px solid black; 
+                 border-radius: 10px;
+                 margin-right: 50px;}
+        .div2{
+            background: white;
+            width: 80%;
+            height:500px;
+            margin:auto;
+            padding: 50px;
+            box-shadow: 0px 0px 50px;
+            border-radius: 15px;}
+        .div2 img{width: 325px;
+             height: 500px;
+             float: right;
+             margin-right: 4px;
+             border: black 10px solid;
+             border-radius: 15px;
+             box-shadow:0px 0px 35px ;}
+        .divi{background: white;
+            width: 60%;
+             height: 400px;
+             border-radius: 0px;            padding: 50px;
+             box-shadow: 0px 0px 50px;}
+        .ul1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+             text-align:center;
+             font-size: 20px;}
+        .div4{background: purple;
+              width: 95%;
+              height: 400px;
+              margin:auto;
+              margin-left: 15;}
+        .div5{background:turquoise;
+              width: 100%;
+              height: 400px;
+              margin:auto;
+              border-radius: 15px;}
+        .img1{width: 600px;
+              height: 340px;
+              float: left;
+              margin:auto;}
+        .anamenü{width: 100%;
+              height: 70px;
+              word-spacing: 100px;
+              text-align: center;
+              font-size: 30px;
+              margin-top: 15px;}
+        footer{text-align: center;
+               font-size: 25px;}
+       
+    </style>
+    
+</head>
+<body>
+    <div class="div1">
+        
+        <h1>PANDA BAHÇESİ</h1>
+        <a href="#">"Bir Pandanın Dünyası"</a>
+    
+    </div>
+    <br>
+    <div class="anamenü">
+        <a href="file:///C:/Users/gurka/OneDrive/Masa%C3%BCst%C3%BC/KOMPLE%20FRONTEND%20KURSU/CSS3%20FLEXBOX/2/index.html#">Anasayfa</a>
+        <a target="_self"href="file:///C:/Users/gurka/OneDrive/Masa%C3%BCst%C3%BC/KOMPLE%20FRONTEND%20KURSU/CSS3%20FLEXBOX/2/index%20hakk%C4%B1m%C4%B1zda.html">Hakkımızda</a>
+        <a target="_self"href="file:///C:/Users/gurka/OneDrive/Masa%C3%BCst%C3%BC/KOMPLE%20FRONTEND%20KURSU/CSS3%20FLEXBOX/2/index%20pandalar.html">Pandalar</a>
+        <a target="_self" href="file:///C:/Users/gurka/OneDrive/Masa%C3%BCst%C3%BC/KOMPLE%20FRONTEND%20KURSU/CSS3%20FLEXBOX/2/index%20ileti%C5%9Fim.html">İletişim</a>
+        
+    </div>
+    <br><br><br><br>
+    <div class="div2">
+        <img src="pand.jpeg">
+
+
+
+
+<div class="divi">
+<ul class="ul1">
+    <h1>BUNLARI BİLİYORMUYDUNUZ?</h1>
+    <li> Pandalar, Oyuncak Ayılarınızdan Çok Daha Büyüktür</li>
+    <li> Pandalar, Oyuncak Ayılarınızdan Çok Daha Büyüktür</li>
+    <li>Pandaların Tırmanma ve Yüzme Özellikleri Oldukça Gelişmiştir</li>
+    <li>Pandalar Pembe Doğarlar</li>
+    <li>Pandalar Dünyada En Çok Sevilen Hayvanlardan Biri</li>
+    <li>Yemek ve Uyumak Dışında Pek Bir Şey Yapmazlar</li>
+    <li>Yemek ve Uyumak Dışında Pek Bir Şey Yapmazlar</li>
+    <li>Yetişkin Bir Panda Günde 35 Kiloya Kadar Bambu Yiyebilir!</li>
+</ul>
+</div>
+    
+    <br> <br> <br> 
+    <hr>
+   <br>  
+    <div class="div4">
+        <iframe width="1270px" height="400px" margin-right="50px"src="https://www.youtube.com/embed/hWQeLeR_vBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <br><br><br>
+        <hr>
+    <footer>@2021 Coypright</footer>
+    <hr>
+
+</body>
+</html>
