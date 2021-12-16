@@ -1,6 +1,6 @@
 - 👋 Merhaba ben: @esrgrkn
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CSS,PYTHON,JAVASCRİPT
 - 📫 How to reach me gurkan.eser@outlook.com
 
 <!---
