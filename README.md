@@ -2,15 +2,13 @@
 <br>
 <br>
 
+<div><img src= ![as](https://user-images.githubusercontent.com/92585904/165974786-f9d1fff5-a9b9-471a-967a-68517090e150.jpg) align="right height="100" width="50"><div>
 
 
 ### Jr.Python Developer
 
 
-### I am working on Python development. I share my projects here.
-### Problem solving skills and test oriented
-### enthusiastic about creating and designing software in an environment
-### am a successful and enthusiastic software developer
+### I am working on Python development. I share my projects here. Problem solving skills and test oriented enthusiastic about creating and designing software in an environment am a successful and enthusiastic software developer.
 <br>
 
 ## Tech I use:
