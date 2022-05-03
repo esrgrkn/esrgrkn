@@ -8,7 +8,7 @@
 ### Jr.Python Developer
 
 
-### I am working on Python development. I share my projects here. Problem solving skills and test oriented enthusiastic about creating and designing software in an environment am a successful and enthusiastic software developer.
+### I am working on Python development. I share my projects here. Problem solving skills and test oriented enthusiastic about creating and designing software in an environment am a successful a software developer.
 <br>
 
 ## Tech I use:
